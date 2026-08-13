@@ -30,7 +30,3 @@ demonstrating github webhook trigger
 
 build by tenali
 
-
-
-demostrating poll SCM
-again generating build
